@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "module": "validatorselete",
+        "uuid": 3088530,
+        "checksum": "a7s01"
+    },
+    "settings": {
+        "retries": 2,
+        "enabled": false,
+        "mode": "debug"
+    }
+}
